@@ -56,4 +56,24 @@ I have 4 apples
 I have 4 apples
 ```
 
+### Printing nested `"`
+
+```
+>>> print("Shadow says,\"Hello World !\"")
+```
+
+### Printing in next line
+
+```
+>>> print("Hello there\nNitin this side")
+Hello there
+Nitin this side
+```
+
+### Printing `tab`
+```
+>>> print("Hello\tThere")
+Hello   There
+``` 
+
 
