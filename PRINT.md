@@ -60,6 +60,7 @@ I have 4 apples
 
 ```
 >>> print("Shadow says,\"Hello World !\"")
+Shadow says,"Hello World !"
 ```
 
 ### Printing in next line
@@ -75,5 +76,6 @@ Nitin this side
 >>> print("Hello\tThere")
 Hello   There
 ``` 
+
 
 
