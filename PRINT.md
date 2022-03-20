@@ -72,10 +72,26 @@ Nitin this side
 ```
 
 ### Printing `tab`
+
 ```
 >>> print("Hello\tThere")
 Hello   There
 ``` 
 
+### End with charecter
 
+> Example 1
 
+```
+>>> print("Hello World !", end="!!!")
+Hello World !!!!>>>
+```
+
+> Example 2
+
+```
+>>> print("Hello World !", end="\n\n")
+Hello World !
+
+>>>
+```
