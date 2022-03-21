@@ -40,7 +40,7 @@ Combination of real and imaginary number is known as complex numbers and represe
 ```
 >>> a = 3 + 4j
 >>> print(a, "| TYPE of a:", type(a))
-3 | TYPE of a: <class 'complex'>
+(3+4j) | TYPE of a: <class 'complex'>
 ```
 
 ### String
