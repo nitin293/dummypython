@@ -66,6 +66,8 @@ List is basically a data type that contains data in an ordered sequence and repr
 [1, 2, 'Nitin', 3] | TYPE of a: <class 'list'>
 ```
 
+More about LIST data type: <a href="./LIST.md">click here</a>
+
 ### Tuple
 
 Tuples are similar as python list, but the main difference between list and tuple is that tuple is immutable and is represented as follows
