@@ -1,4 +1,4 @@
-# Print statement:
+# Print Statement
 
 Print is basically used to display some text in the console window. In python, `print()` function is used to perform this particular operation.
 

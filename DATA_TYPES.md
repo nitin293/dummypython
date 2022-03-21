@@ -95,4 +95,3 @@ Dictionary data type contains 'key-value' pairs and represented as follows
 >>> print(a, "| TYPE of a:", type(a))
 {'Name': 'Nitin Choudhury', 'Email': 'nitin123@xyz.com'} | TYPE of a: <class 'dict'>
 ``` 
-
