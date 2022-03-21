@@ -83,7 +83,7 @@ Set is a data type that contains unique data and represented as follows
 ```
 >>> a = {1, 2, 2, 3, "Nitin", 3}
 >>> print(a, "| TYPE of a:", type(a))
-[1, 2, 3, 'Nitin'] | TYPE of a: <class 'set'>
+{1, 2, 3, 'Nitin'} | TYPE of a: <class 'set'>
 ```
 
 ### Dictionary
